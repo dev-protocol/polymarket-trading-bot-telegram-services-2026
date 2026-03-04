@@ -7,14 +7,14 @@
 - 📹 Watch the Telegram UI walkthrough: [Tutorial Video](https://www.youtube.com/watch?v=gm8J2mmerBQ)
 - 🧪 See the CLI test in action: [Simple Test / CLI Bot](https://www.youtube.com/watch?v=6ZRIIPzv3d8)
 
-### Risk Free 5min Trading Bot Series
-- ⚡ **[NEW]** [Polymarket Risk_Free_5min_Trading Bot](https://www.youtube.com/watch?v=CipdY9aCCwE)  
+### Cycle End Sniper - Trading Bot Series
+- ⚡ **[NEW]** [Cycle End Sniper |_Polymarket 5min Crypto Market_Trading Bot](https://www.youtube.com/watch?v=CipdY9aCCwE)  
   *Detects lightning-fast Crypto moves on Binance/Bybit and enters Polymarket 5-minute "Up or Down" positions BEFORE the market price adjusts → pure latency edge*
 
 ---
 ## 📱 Telegram Bot: Explore the Trading Simulator & Test in Action
 
-- 🛡️ **Polymarket Risk-Free 5min Trading Bot**: [Risk-Free Bot](https://t.me/poly5mbot)  
+- 🛡️ **Cycle End Sniper | Polymarket 5min Trading Bot**: [Cycle End Sniper](https://t.me/poly5mbot)  
   *(Note: Use this bot to experiment with the risk-free trading strategy in a simulated environment)*
 - 🎯 Explore the Trading Simulator: [Simulator Bot](https://t.me/poly_copy_tg_bot)  
   *(Note: This is for educational purposes and demonstrates two types of trading)*  
