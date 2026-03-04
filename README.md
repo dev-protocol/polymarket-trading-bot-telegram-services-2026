@@ -53,9 +53,9 @@
 
 ---
 <p float="left">
-   <img width="255" height="1026" alt="image" src="https://github.com/user-attachments/assets/b15b436a-a7f2-4a47-b970-aa113f294e74" />
-   <img width="255" height="1026" alt="telegram bot-1" src="https://github.com/user-attachments/assets/cbe68dc3-939a-4856-8a82-8e59d5588b1c" />
-   <img width="255" height="1026" alt="telegram bot-2" src="https://github.com/user-attachments/assets/3810d21f-8eaa-4503-80ab-eaa54604cc46" />
+   <img width="260" height="1026" alt="image" src="https://github.com/user-attachments/assets/b15b436a-a7f2-4a47-b970-aa113f294e74" />
+   <img width="260" height="1026" alt="telegram bot-1" src="https://github.com/user-attachments/assets/cbe68dc3-939a-4856-8a82-8e59d5588b1c" />
+   <img width="260" height="1026" alt="telegram bot-2" src="https://github.com/user-attachments/assets/3810d21f-8eaa-4503-80ab-eaa54604cc46" />
 </p>
 
 https://github.com/user-attachments/assets/2e462566-f4cc-45c3-a3b1-6aa7757b0f32
