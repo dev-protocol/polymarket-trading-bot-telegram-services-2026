@@ -3,7 +3,9 @@
 Imagine a future where AI-driven bots outpace human traders, exploiting microsecond edges in prediction markets to turn data into dollars. Our open-source Rust-based tools, fused with seamless Telegram integration, empower you to dive into this visionary realm of Polymarket trading.  
 Focus: copy trading, latency arbitrage, 5-min cycle sniping, market making, simulation, and low-latency execution under current rules (post-Feb 2026 updates).
 
-<img width="1312" height="736" alt="image" src="https://github.com/user-attachments/assets/610ca14e-8a6a-4948-a9ad-642a70ea9391" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/610ca14e-8a6a-4948-a9ad-642a70ea9391" alt="image" width="800" height="561"/>
+</p>
 
 ## 📹 Core YouTube Showcases – Current Work Highlights
 
@@ -12,7 +14,9 @@ Step into the cutting-edge with these demos that showcase how our bots harness A
 - ⚡ **Latency Arbitrage Bot (Rust, quick-build example)**: Reverse-engineered from real $50 → $435k BTC lag exploit case. Local execution, 0.3–0.8% targets, strict risk rules (0.5% per trade / 2% daily). Code + setup walkthrough.  
   [Watch Video](https://www.youtube.com/watch?v=jL8cuzkclHg)
 
-<img width="2400" height="1260" alt="image" src="https://github.com/user-attachments/assets/67319cc3-c14c-43d2-9b33-1935a5c94ce3" />
+<p align="center">
+  <img width="800" height="561" alt="image" src="https://github.com/user-attachments/assets/67319cc3-c14c-43d2-9b33-1935a5c94ce3" />
+</p>
 
 - ⚡ **5-Min Bitcoin "Up or Down" Latency Sniper / Cycle End Sniper**: Detects rapid moves on Binance/Bybit → enters Polymarket 5-min positions before odds update. Covers hedging, mispricing, oracle risks, high-volume examples.  
   [Watch Video](https://www.youtube.com/watch?v=CipdY9aCCwE)
@@ -63,9 +67,9 @@ Control the future of trading right from your chat—seamless, powerful, and vis
 ### Screenshots & Demo
 - **Telegram UI**:  
   <p float="left">
-   <img width="260" height="1026" alt="image" src="https://github.com/user-attachments/assets/b15b436a-a7f2-4a47-b970-aa113f294e74" />
-   <img width="260" height="1026" alt="telegram bot-1" src="https://github.com/user-attachments/assets/cbe68dc3-939a-4856-8a82-8e59d5588b1c" />
-   <img width="260" height="1026" alt="telegram bot-2" src="https://github.com/user-attachments/assets/3810d21f-8eaa-4503-80ab-eaa54604cc46" />
+   <img width="200" height="789" alt="image" src="https://github.com/user-attachments/assets/b15b436a-a7f2-4a47-b970-aa113f294e74" />
+   <img width="200" height="789" alt="telegram bot-1" src="https://github.com/user-attachments/assets/cbe68dc3-939a-4856-8a82-8e59d5588b1c" />
+   <img width="200" height="789" alt="telegram bot-2" src="https://github.com/user-attachments/assets/3810d21f-8eaa-4503-80ab-eaa54604cc46" />
 </p>
 
 - **Video Demo**:  
@@ -76,7 +80,9 @@ Control the future of trading right from your chat—seamless, powerful, and vis
 
 Unlock the power of tomorrow's trading tech today—these features propel you into a world of automated alpha and edge-hunting precision.
 
-<img width="931" height="551" alt="image" src="https://github.com/user-attachments/assets/1f8d5ccf-1b6b-419b-ac5a-56e2cf1929d9" />
+<p align="center">
+  <img width="700" height="414" alt="image" src="https://github.com/user-attachments/assets/1f8d5ccf-1b6b-419b-ac5a-56e2cf1929d9" />
+</p>
 
 - 👥 **Multi-trader support** — Copy/follow several successful traders at once for diversified alpha  
 - 📏 **Dynamic order sizing** — PERCENTAGE (e.g. 10% of trader's size), FIXED (set USD amount), ADAPTIVE (capital-based scaling)  
@@ -118,6 +124,7 @@ Unlock the power of tomorrow's trading tech today—these features propel you in
 
 Envision the edge you're building—where bots don't just trade, they anticipate the future!
 
-<img width="1400" height="785" alt="image" src="https://github.com/user-attachments/assets/3059b5c6-62e5-48d2-96f6-0c9953c4bb2a" />
-
+<p align="center">
+  <img width="800" height="561" alt="image" src="https://github.com/user-attachments/assets/3059b5c6-62e5-48d2-96f6-0c9953c4bb2a" />
+</p>
 Let's keep building the edge! 🚀
