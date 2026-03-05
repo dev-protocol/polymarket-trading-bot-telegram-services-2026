@@ -1,6 +1,7 @@
 # 🚀 Polymarket Trading Bot Telegram Services (Updated 2026)
 
 Focus: copy trading, latency arbitrage, 5-min cycle sniping, market making, simulation, and low-latency execution under current rules (post-Feb 2026 updates).
+
 ---
  <p align="center">
      <a href="mailto:misssilverbeauty0927@gmail.com">
