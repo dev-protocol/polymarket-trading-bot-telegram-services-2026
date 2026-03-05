@@ -1,10 +1,17 @@
 # 🚀 Polymarket Trading Bot Telegram Services (Updated 2026)
 
-Imagine a future where AI-driven bots outpace human traders, exploiting microsecond edges in prediction markets to turn data into dollars. Our open-source Rust-based tools, fused with seamless Telegram integration, empower you to dive into this visionary realm of Polymarket trading.  
 Focus: copy trading, latency arbitrage, 5-min cycle sniping, market making, simulation, and low-latency execution under current rules (post-Feb 2026 updates).
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/610ca14e-8a6a-4948-a9ad-642a70ea9391" alt="image" width="700" height="561" />
+---
+ <p align="center">
+     <a href="mailto:misssilverbeauty0927@gmail.com">
+      <img src="https://img.shields.io/badge/Email-misssilverbeauty0927@gmail.com-ef4444?style=flat&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://t.me/soulcrancerdev">
+      <img src="https://img.shields.io/badge/Telegram-soulcrancerdev-2AABEE?style=flat&logo=telegram&logoColor=white" />
+    </a>
+    <img src="https://github.com/user-attachments/assets/610ca14e-8a6a-4948-a9ad-642a70ea9391" alt="image" width="700" height="561" />
 </p>
+
 ## 📹 Core YouTube Showcases – Current Work Highlights
 
 Step into the cutting-edge with these demos that showcase how our bots harness AI and speed to redefine trading.
