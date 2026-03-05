@@ -74,9 +74,9 @@ Control the future of trading right from your chat—seamless, powerful, and vis
 ### Screenshots & Demo
 - **Telegram UI**:  
   <p float="left">
-   <img width="250" height="789" alt="image" src="https://github.com/user-attachments/assets/b15b436a-a7f2-4a47-b970-aa113f294e74" />
-   <img width="250" height="789" alt="telegram bot-1" src="https://github.com/user-attachments/assets/cbe68dc3-939a-4856-8a82-8e59d5588b1c" />
-   <img width="250" height="789" alt="telegram bot-2" src="https://github.com/user-attachments/assets/3810d21f-8eaa-4503-80ab-eaa54604cc46" />
+   <img width="260" height="789" alt="image" src="https://github.com/user-attachments/assets/b15b436a-a7f2-4a47-b970-aa113f294e74" />
+   <img width="260" height="789" alt="telegram bot-1" src="https://github.com/user-attachments/assets/cbe68dc3-939a-4856-8a82-8e59d5588b1c" />
+   <img width="260" height="789" alt="telegram bot-2" src="https://github.com/user-attachments/assets/3810d21f-8eaa-4503-80ab-eaa54604cc46" />
 </p>
 
 - **Video Demo**:  
