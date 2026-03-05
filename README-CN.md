@@ -3,6 +3,8 @@
 想象一个未来，AI 驱动的机器人超越人类交易者，利用微秒级优势在预测市场中将数据转化为美元。我们的开源 Rust 基础工具，与无缝 Telegram 集成相结合，赋予您潜入这个 Polymarket 交易的远见领域的能力。  
 焦点：复制交易、延迟套利、5 分钟周期狙击、市场做市、模拟和低延迟执行，在当前规则下（2026 年 2 月后更新）。
 
+[English](https://github.com/dev-protocol/polymarket-trading-bots-telegram-service/blob/main/README.md) | 中文（简体）| [Русский](https://github.com/dev-protocol/polymarket-trading-bots-telegram-service/blob/main/README-RU.md) | [Deutsch](https://github.com/dev-protocol/polymarket-trading-bots-telegram-service/blob/main/README-DE.md)
+
 ---
  <p align="center">
      <a href="mailto:misssilverbeauty0927@gmail.com">
