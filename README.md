@@ -1,6 +1,8 @@
-# 🚀 Polymarket Trading Bot Telegram Services (Updated 2026)
+# 🚀 Synth-Powered Polymarket Trading Bot Telegram Services (Updated 2026)
 
-Focus: copy trading, latency arbitrage, 5-min cycle sniping, market making, simulation, and low-latency execution under current rules (post-Feb 2026 updates).
+Focus: copy trading, latency arbitrage, 5-min cycle sniping, **Synth-powered edge arbitrage**, market making, simulation, and low-latency execution under current rules (post-Feb 2026 updates).
+
+> (Synth integrates via its official SDK/API: bots query its AI probabilistic forecasts (Bittensor subnet) for short-term BTC/ETH markets, compare vs Polymarket implied odds to detect 10%+ edges, and auto-trade.)
 
 English | [中文（简体）](https://github.com/dev-protocol/polymarket-trading-bots-telegram-service/blob/main/README-CN.md)| [Русский](https://github.com/dev-protocol/polymarket-trading-bots-telegram-service/blob/main/README-RU.md) | [Deutsch](https://github.com/dev-protocol/polymarket-trading-bots-telegram-service/blob/main/README-DE.md)
 
@@ -24,15 +26,40 @@ Step into the cutting-edge with these demos that showcase how our bots harness A
 
 - ⚡ **Latency Arbitrage Bot (Rust, quick-build example)**: Reverse-engineered from real $50 → $435k BTC lag exploit case. Local execution, 0.3–0.8% targets, strict risk rules (0.5% per trade / 2% daily). Code + setup walkthrough.  
   [Watch Video](https://www.youtube.com/watch?v=jL8cuzkclHg)
-<p align="center">
-  <img width="700" height="561" alt="image" src="https://github.com/user-attachments/assets/67319cc3-c14c-43d2-9b33-1935a5c94ce3" />
-</p>
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=jL8cuzkclHg" target="_blank">
+  <img width="700" height="561" alt="image" src="https://github.com/user-attachments/assets/e1395941-602e-4439-87a5-921175fe5f8e" />
+  </a>
+</div>
 
 - ⚡ **5-Min Bitcoin "Up or Down" Latency Sniper / Cycle End Sniper**: Detects rapid moves on Binance/Bybit → enters Polymarket 5-min positions before odds update. Covers hedging, mispricing, oracle risks, high-volume examples.  
   [Watch Video](https://www.youtube.com/watch?v=CipdY9aCCwE)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=CipdY9aCCwE" target="_blank">
+    <img src="https://github.com/user-attachments/assets/5e840c8e-3895-408b-9766-769398e578e3" width="700" height="561" alt="image" />
+  </a>
+</div>
 
 - ⚙️ **Copy Trading Bot – Setup & Rust Codebase**: Full guide to env vars, strategies (PERCENTAGE/FIXED/ADAPTIVE), preview mode, running the bot, Rust advantages (speed, reliability).  
   [Watch Video](https://www.youtube.com/watch?v=QLA1NJL32xs)
+<div align="center">
+  <a href="https://www.youtube.com/watch?v=QLA1NJL32xs" target="_blank">
+    <img src="https://github.com/user-attachments/assets/37e6791d-e4e2-4d40-8084-b6995a77397c" width="700" height="561" alt="image" />
+  </a>
+</div>
+
+## 📱 Telegram Bots – Live, Simulated & Control Interfaces
+
+Control the future of trading right from your chat—seamless, powerful, and visionary.
+
+- 🛡️ **Cycle End Sniper | Polymarket 5-Min Trading Bot**: Latency sniping + paper/real modes, auto buys on thresholds, risk exits, wallet/deposit/withdraw/redeem, live logs & strategy config.  
+  [Access Bot](https://t.me/poly5mbot)
+
+- 🎯 **Mempool Copy Trading Bot**: High Speed of Copytrading.  
+  [Access Bot](https://t.me/poly_copy_tg_bot)
+
+- 🚀 **Multi Whales - Copy Trading Bot**: Live copytrading with simulation/preview modes.  
+  [Access Bot](https://t.me/poly_copy_prod_tg_bot)
 
 ## 📚 Reference Articles (dev.to) – In-Depth Guides & Strategy Breakdowns
 
@@ -53,26 +80,6 @@ These written tutorials provide detailed explanations, rule updates, code concep
   Explains latency arbitrage on high-volume 5-min BTC Up/Down markets (> $25M traded early). Bot uses faster exchange data (Binance/Bybit) to detect moves before Polymarket odds adjust, enter positions, and hedge Yes/No for quick exits. Covers examples of mispricings, hedging mechanics, risks (volatility, fees, oracle delays), and HFT-inspired execution. Not risk-free; emphasizes speed.  
   [Read Article](https://dev.to/soulcrancerdev/beating-polymarkets-5-minute-crypto-updown-markets-latency-polymarket-arbitrage-trading-bot-2naj)
 
-## 📱 Telegram Bots – Live, Simulated & Control Interfaces
-
-Control the future of trading right from your chat—seamless, powerful, and visionary.
-
-- 🛡️ **Cycle End Sniper | Polymarket 5-Min Trading Bot**: Latency sniping + paper/real modes, auto buys on thresholds, risk exits, wallet/deposit/withdraw/redeem, live logs & strategy config.  
-  [Access Bot](https://t.me/poly5mbot)
-
-- 🎯 **Mempool Copy Trading Bot**: High Speed of Copytrading.  
-  [Access Bot](https://t.me/poly_copy_tg_bot)
-
-- 🚀 **Multi Whales - Copy Trading Bot**: Live copytrading with simulation/preview modes.  
-  [Access Bot](https://t.me/poly_copy_prod_tg_bot)
-
-**Telegram Control Features** (for copy trading & others):  
-- Manage config & environment variables directly  
-- Real-time health checks  
-- Monitor balances & PnL  
-- Start/stop bot instantly  
-- Live log streaming  
-- No terminal/SSH required
 
 ### Screenshots & Demo
 - **Telegram UI**:  
@@ -90,9 +97,10 @@ Control the future of trading right from your chat—seamless, powerful, and vis
 
 Unlock the power of tomorrow's trading tech today—these features propel you into a world of automated alpha and edge-hunting precision.
 <p align="center">
-  <img width="700" height="414" alt="image" src="https://github.com/user-attachments/assets/1f8d5ccf-1b6b-419b-ac5a-56e2cf1929d9" />
+  <img width="700" height="414" alt="image" src="https://github.com/user-attachments/assets/839747c0-b643-46e5-97c5-0f126b4f7a50" />
 </p>
 
+- 🤖 **Synth AI edge integration** — Query Bittensor SN50 (Synth) probabilistic forecasts via SDK/API → detect & auto-trade 5-15%+ mispricings vs. Polymarket implied odds on BTC/ETH/SOL hourly/15-min/daily Up-Down & range markets (top strategy in 2026)
 - 👥 **Multi-trader support** — Copy/follow several successful traders at once for diversified alpha  
 - 📏 **Dynamic order sizing** — PERCENTAGE (e.g. 10% of trader's size), FIXED (set USD amount), ADAPTIVE (capital-based scaling)  
 - 🔝 **Tiered multipliers** — Apply different scaling rules for large vs. small copied trades  
@@ -132,7 +140,11 @@ Unlock the power of tomorrow's trading tech today—these features propel you in
 ⭐ Star/fork the repo. Contributions welcome — especially for post-2026 Polymarket rule adaptations, new strategies, or market maker enhancements.
 
 Envision the edge you're building—where bots don't just trade, they anticipate the future!
-<p align="center">
-  <img width="600" height="561" alt="image" src="https://github.com/user-attachments/assets/3059b5c6-62e5-48d2-96f6-0c9953c4bb2a" />
-</p>
-Let's keep building the edge! 🚀
+<p align="center">⭐⭐⭐</p>
+<div align="center">
+  <a href="https://t.me/poly5mbot" target="_blank">
+    <img src="https://github.com/user-attachments/assets/6ce4142c-8625-4fce-8994-460123109a2a" width="486" height="123" alt="image" />
+  </a>
+</div>
+
+---
