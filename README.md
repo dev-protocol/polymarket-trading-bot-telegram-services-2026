@@ -6,14 +6,14 @@ English | [中文（简体）](https://github.com/dev-protocol/polymarket-tradin
 
 ---
  <p align="center">
+    <a href="https://deepwiki.com/dev-protocol/polymarket-trading-bot-telegram-services-2026">
+     <img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki">
+    </a>
      <a href="mailto:misssilverbeauty0927@gmail.com">
       <img src="https://img.shields.io/badge/Email-misssilverbeauty0927@gmail.com-ef4444?style=flat&logo=gmail&logoColor=white" />
     </a>
     <a href="https://t.me/soulcrancerdev">
       <img src="https://img.shields.io/badge/Telegram-soulcrancerdev-2AABEE?style=flat&logo=telegram&logoColor=white" />
-    </a>
-    <a href="https://deepwiki.com/dev-protocol/polymarket-trading-bot-telegram-services-2026">
-     <img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki">
     </a>
     <img src="https://github.com/user-attachments/assets/610ca14e-8a6a-4948-a9ad-642a70ea9391" alt="image" width="700" height="561" />
 </p>
